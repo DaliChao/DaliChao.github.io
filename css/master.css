@@ -6,6 +6,7 @@
   color:white;
   margin:auto;
   margin-top: 60px;
+  margin-top: 40px;
   text-align: center;
 }
 html {
@@ -53,7 +54,7 @@ h1{
   color:white;
   width:800px;
   margin:auto;
-  background-color:rgba(0,0,0,0.4);
+  background-color:rgba(0,0,0,0.3);
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -71,5 +72,5 @@ h5{
   color:blue;
 }
 .hover:hover{
-  background-color:rgba(0,0,0,0.7);
+  background-color:rgba(0,0,0,0.5);
 }
