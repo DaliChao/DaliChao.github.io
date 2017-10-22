@@ -74,3 +74,6 @@ h5{
 .hover:hover{
   background-color:rgba(0,0,0,0.5);
 }
+ul li a{
+  font-weight:bold;
+}
