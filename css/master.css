@@ -37,6 +37,7 @@ h1{
 }
 .social-icons{
   font-size: 40px;
+
 }
 .social-icons a{
   color:white;
@@ -55,8 +56,6 @@ h1{
   width:800px;
   margin:auto;
   background-color:rgba(0,0,0,0.3);
-  padding-left: 10px;
-  padding-right: 10px;
 }
 .summary h2{
 text-align: center;
@@ -76,4 +75,8 @@ h5{
 }
 ul li a{
   font-weight:bold;
+}
+.divPad{
+  padding-left: 20px;
+  padding-right: 20px;
 }
